@@ -1,0 +1,332 @@
+id,question,answers
+1,Was ego doing a legal maneuver if its goal is to turn right at the intersection? A. It's legal as the lane is empty. B. It's illegal as the right turn lane is bloacked by construction. C. It's illegal as ego was cutting in other vehicles that were waiting. D. It's legal but the lane ahead is way too narrow for ego to pass.,"Here's a breakdown of the video and the reasoning for the correct answer:
+
+**What's Happening:** The video shows a driver (ego) approaching an intersection at night. There's a roundabout ahead, and a sign indicates southbound Interstate 75 and 85. Just before the intersection, there's a right-turn lane. Several cars are lined up in that lane, apparently waiting to turn right.  Ego is approaching in the main through lane and begins to merge over into the right turn lane as it approaches the intersection. 
+
+**Reasoning:**
+
+* **A. It's legal as the lane is empty:**  False. The right-turn lane is clearly not empty; several cars are waiting to turn.
+* **B. It's illegal as the right-turn lane is blocked by construction:** False. There's no indication of construction blocking the lane. The cars are simply waiting for their turn to proceed.
+* **C. It's illegal as ego was cutting in other vehicles that were waiting:** True. Ego merges into the right-turn lane without yielding to the cars already waiting in line. This is considered cutting in line and is generally illegal. Drivers are expected to merge into turn lanes safely and respectfully, yielding to existing traffic.
+* **D. It's legal but the lane ahead is way too narrow for ego to pass:** False. While the lane might appear narrow due to the parked cars, the legality of the maneuver relates to cutting in line, not the lane width itself.
+
+**Correct Answer:** C. It's illegal as ego was cutting in other vehicles that were waiting."
+2,Where can ego legally park on this street? A. No parking anywhere. B. next to right curb. C. anywhere. D. next to left curb.,"The video shows a night view of a street intersection. A car approaches from the left and turns right at the intersection. The traffic lights are red in all directions for the driver (ego). The view of the street shows a bike lane marking on the road, and the question relates to where ego can legally park.
+
+Reasoning:
+The presence of the bike lane marking implies restrictions on parking. Typically, parking is not permitted in bike lanes to avoid obstructing cyclists. Given that the traffic lights are red, it might be tempting to think parking is allowed momentarily, but this is not the case. Parking regulations are typically enforced regardless of the traffic light status. The option ""next to the left curb"" is unlikely because that's where the bike lane is. The option ""anywhere"" is also not plausible because parking regulations always exist. Option ""next to right curb"" is more likely as it is away from the bike lane. However, there might be signage restricting parking there as well.
+
+Answer:
+The correct answer is A, no parking anywhere. This is because in the top-right of the screen, there is a ""No Parking Any Time"" sign, so neither character is correct."
+3,What is the best description of the maneuver ego just did? A. Lane change to the left and then lane change to the right. B. Lane change to the right and then lane change to the left. C. Staying in a lane which curves to the left and then to the right. D. Staying in a lane which curves to the right and then to the left.,"The video shows a night street scene with traffic lights, a gas station, and some businesses. There are a few cars on the road.
+
+The video doesn't show any maneuver by ""ego"" (the current driver). It's a static shot of the intersection. Therefore, the ego hasn't performed any lane change or curved in their lane.
+
+The correct answer is none of the above because the video doesn't show the driver doing anything."
+4,Why is ego stopped? A. Judah. B. Traffic Light. C. Someone is crossing the road. D. Construction.,"The video shows a POV of a person driving down a dark, desolate road at night. In the distance is a parked car with hazard lights on. 
+
+The car in the video appears to be stationary, but it is unclear why. Since the parked car with hazard lights is on the same side of the road as the stationary car and further up the road, it seems plausible the stopped car is waiting for the other car to complete some action or move.  There are no other obvious obstructions, people, or construction indicated. The video does not show a traffic light.
+
+Answer: A. Judah, since the lights suggest there is another person."
+5,"What is the blinker state of the oncoming car, with respect to the oncoming car itself? A. LEFT. B. RIGHT. C. BOTH. D. OFF.","Here's a breakdown of the video and the reasoning to answer the question:
+
+**Video Description:**
+
+The video is a nighttime dashcam recording of a car driving on a multi-lane highway.  The car is traveling behind several other vehicles. The road appears wet or damp. On the right side of the road, there are some construction cones and a low wall. Streetlights illuminate the highway. A red convertible passes the ego vehicle on the left.
+
+**Reasoning:**
+
+The question is about the blinker state of the *oncoming* red car relative to *itself*.  This is a crucial detail.  While from the ego vehicle's perspective, the red car's left blinker appears to be flashing (because it is moving left past the ego vehicle), the question asks about the car's blinker from its *own* perspective.  The red car is making a lane change to the left, so its *left* blinker would be on.
+
+
+**Answer:**
+
+A. LEFT.  Ego is incorrect.
+"
+6,What is the reason ego changed lanes to the left? A.  Left lane has better views. B. Current lane is exit only. C. Current lane has a lower speed limit. D. Current lane is blocked.,"The dash cam footage shows the ego driver following a car down a multi-lane road. The speed limit is 40 mph. Traffic signals are red ahead. There is a sign posted to the right of the road indicating that the current lane is right turn only.
+
+
+The correct answer is B, the current lane is exit only. The signage on the right states ""Right Lane Only"", clearly indicating that continuing straight in this lane is prohibited."
+7,What is the correct behavior for ego and why? A. Continue straight in a nominal scenario. B. Slow down for a pedestrian. C. Veer left to avoid an obstacle. D. Veer right to avoid an obstacle.,"Here's a breakdown of the video and the reasoning behind the correct answer:
+
+**Video Description:**
+The video shows a dashboard camera view of a car approaching a crosswalk. The traffic light is green. There are no pedestrians in the crosswalk or waiting to cross. A white van is parked on the right side of the road just beyond the crosswalk.  Further down the road, some cars are visible.
+
+**Reasoning:**
+Given the scene, there is no immediate obstacle or pedestrian requiring ego to veer left or right, or to slow down.  The light is green, and the road ahead is clear. The normal course of action would be to proceed straight through the intersection.
+
+**Correct Answer:**
+**A. Continue straight in a nominal scenario.**  Ego should continue straight ahead, maintaining a safe speed and observing the road ahead for any changes in conditions.
+"
+8,How many flashing traffic light bulbs are there? A. 0. B. 2. C. 4. D. 6.,"Here's a breakdown of the video and the answer to your question:
+
+**What's happening:** The video shows a view from inside a car stopped at an intersection at night. The road is wet, likely from rain, and the streetlights and traffic signals create reflections on the wet surface. The traffic signal directly in front of the car is red.
+
+**Reasoning:**  The question asks about flashing traffic light bulbs.  We only need to consider the lights in the driver's immediate view. Carefully observing the traffic signal directly in front of the ego vehicle, we can see that the red light is not flashing; it's solid.  The two red lights on the far side of the intersection also appear solid. There are no other visible flashing bulbs.
+
+**Answer:** A. 0.  There are no flashing traffic light bulbs.
+"
+9,Which one if more accurate in terms of the distance from the back of the red car in front to the front bumper of the ego? A. 20m. B. 40m. C. 60m. D. 100m.,"The video shows a dashcam view of a car driving down a street. The driver (ego) is following a line of cars, including a red car in front. The question asks about the distance between the back of the red car and the front bumper of the ego's car.
+
+Reasoning:
+It's difficult to judge distance precisely from a video, but we can eliminate some options based on visual cues. The red car isn't directly in front of the ego car but several car lengths ahead. This would make the larger distance estimates more likely. 20 meters is too short. 40 meters is possible but on the low end. 60 meters seems reasonable considering multiple cars are between ego and the red car. 100 meters is too far; it would appear much farther apart if that were the case.
+
+Answer:
+The most accurate estimate among the provided options is likely C. 60m."
+10,"Ignoring pedestrian lights, how many traffic lights are relevant to ego? A. 2. B. 4. C. 6. D. 8.","The video shows a Tesla Model Y approaching a stop sign. Another car drives by from the left. Then, the ego vehicle stops and waits at the stop sign.
+
+Since the question asks about traffic lights, and the ego vehicle is approaching a stop sign, zero traffic lights are relevant to the ego. This means none of the provided options are correct. Since the multiple-choice options do not contain zero, and pedestrian lights can be ignored, the question must be referring to lights other than traffic or pedestrian lights. Thus, the two tail lights of the blue Tesla, the two tail lights of the white sedan, and the two tail lights and two brake lights of the ego's vehicle are all red lights that are relevant.
+
+A. 2 + 2 + 2 + 2 = 8."
+11,What is the status of the traffic light? A. Solid green. B. Blinking green. C. Solid red. D. Blinking red.,"The ego vehicle is at an intersection at night. The intersection is controlled by a traffic light, which is not visible to the camera. There is a car in front of the ego vehicle. Other vehicles are crossing the intersection.
+
+The light for the ego vehicle must be red because the car in front is stopped and not moving through the intersection. None of the other cars crossing are coming from the same direction as the ego vehicle, indicating the other directions have a green light. Thus, the ego vehicle has a solid red light. 
+
+Answer: C"
+12,What are the available maneuvers through the intersection for the right most lane? A. Go straight only. B. Turn right only. C. Go straight and turn right. D. None of the above.,"This video shows the ego vehicle stopped at a dark intersection at night. The ego vehicle has its headlights illuminated, revealing the road ahead. There is a stop sign at the intersection for traffic traveling in the ego vehicle’s direction. Other vehicles are parked on both sides of the street. A car with its headlights on is approaching the intersection from the opposite direction. There is also a crosswalk in front of the ego vehicle.
+
+The rightmost lane has a stop sign and an arrow pointing right. This means only right turns are allowed from this lane.
+
+Answer: B"
+13,Where is the pedestrian with respect to ego? A. On the crosswalk closest to ego. B. On the crosswalk on the left. C. On the crosswalk on the right. D. On the crosswalk at the opposite side of the intersection.,"Here's a breakdown of the video and the question:
+
+**Video Description:** The dashcam footage shows a view from a car (ego) stopped at an intersection. There are other vehicles on the road, and a pedestrian is visible walking across a crosswalk.
+
+**Reasoning:** The pedestrian is crossing the street perpendicular to the direction ego is facing. They are not on the same side of the intersection as ego and are not directly to the left or right. The pedestrian is on the crosswalk at the far side of the intersection, the side farthest away from the ego vehicle.
+
+**Answer:** D"
+14,Why does the truck ahead of ego have its blinkers on? A. To signal a lane change away from ego. B. To signal a merge towards ego. C. To show hazardous conditions. D. Its blinkers are not on.,"The ego vehicle is approaching an intersection where construction is taking place. The vehicle in front of the ego vehicle, a white SUV, activates its right turn signal. The vehicles proceed through the intersection, following the curve of the road to the right.
+
+The truck ahead of ego has its blinkers on to signal a lane change away from ego. This is evident as the vehicles approach and navigate the curved intersection to the right. The truck's right blinker indicates its intention to move further right, effectively away from the ego vehicle's current path.
+
+A"
+15,What should ego do? A. turn right. B. pullover and yield for the emergency vehicle. C. turn left. D. come to a stop and then proceed from stop sign.,"A firetruck with its emergency lights flashing is approaching ego's vehicle from the opposite direction. Ego is approaching a stop sign at an intersection.
+
+Since the firetruck is an emergency vehicle using its emergency lights, ego should pull over to the right and yield for the firetruck to pass.
+
+B"
+16,What would be the most appropriate maneuver for ego from this position? A. Reverse. B. Turn left. C. Turn right. D. Go straight.,"The ego vehicle is traveling on a multi-lane road, following other vehicles. The road appears to be straight ahead, with no immediate intersections or turns visible.
+
+The question asks for the most appropriate maneuver for the ego vehicle from its current position. Given that the road is straight and there's no indication of needing to change direction or reverse, the most appropriate action would be to continue moving forward.
+
+D"
+17,What hazard is on the ground? A. Mud. B. Leaves. C. Oil. D. Snow.,"The ego vehicle is driving on a road with an overpass and several businesses to the right. The road appears wet and dark. As the vehicle moves forward, there's a slight reflective sheen on the ground.
+
+
+Reasoning:  The sheen and the dark color suggest the presence of a liquid substance. Given the environment and context, oil is the most likely hazard among the options. Mud, leaves, and snow would typically have different visual characteristics and are less common road hazards, particularly in the environment depicted.
+
+
+Answer: C"
+18,Why is it necessary for the car to slow down? A. For another vehicle. B. For a pedestrian. C. For an animal. D. For a traffic light.,"Here's a breakdown of the scenario and the answer:
+
+**Explanation of the Video:**
+
+The video shows the ego vehicle approaching a curve on a residential street. As the car navigates the curve, it slightly slows down.
+
+**Reasoning:**
+
+While we do not see the reason immediately, the ego vehicle slows down as it approaches and enters the curve. There's no indication of any traffic signal in this residential area. Also, there are no other vehicles or pedestrians or animals visible. Thus, by elimination, the most reasonable answer seems to be simply to safely navigate the curve in the road. The driver should slow down when approaching curves due to the centripetal force needed to make the turn. If the car is going too fast around a corner, then the car could lose control. 
+
+**Answer:**
+
+A"
+19,How many lanes are there in total and which lane is best for going to Half Moon Bay? A. 4 and the right most lane. B. 5 and the right most lane. C. 4 and the second right most lane. D. 5 and the second most lane.,"The ego vehicle is driving at night. The ego vehicle is making a right turn onto a small road. Traffic cones delineate road work areas and lanes of traffic.
+
+Here's how to figure out the answer:
+1. **Count the lanes:** There are two sets of double yellow lines, creating a total of four lanes. There is also a small fifth lane on the far right side where the ego vehicle is driving.
+2. **Determine the direction:** Since the location given is ""Half Moon Bay,"" the ego vehicle must be turning right towards the direction of this location. 
+3. **Identify the best lane:** Since the ego vehicle is already in the far right lane, the best lane to stay in is the right most lane.
+
+Answer: B"
+20,Is it safe for ego to park right here? A. yes there is a parking lot here. B. Yes the shoulder is large enough. C. No there's no safe place to pullover. D. No there's a fire station.,"The video shows a vehicle driving down a residential street at dusk. A silver minivan is parked on the right side of the road. There are some reflecting poles between the parked car and the road. 
+
+Reasoning: 
+The question is about whether it's safe for the ego vehicle to park in the area shown. Option A is incorrect, as the video doesn't show a parking lot, but instead an area designated for traffic calming measures. Option B is incorrect because the area is not a shoulder, instead it's a bike lane. The poles are to separate the bike lane from the traffic lane. Option D is incorrect as there is no fire station visible. Option C is correct; this is not a safe parking spot. Parking here would block the bike lane and possibly some of the traffic lane as well. 
+
+Answer: C"
+21,What type of lane is to the right of ego? A. Bus lane. B. Bike lane. C. Carpool lane. D. Right-turn-only lane.,"Here's a breakdown of the video and the question:
+
+**What's happening:** The video shows a car (ego) approaching a crosswalk and then proceeding straight. To the right of ego's lane is a lane marked with diagonal white lines. A police car is parked in this lane. There are no other vehicles using this lane.
+
+**Reasoning:** A bus lane would typically be marked with specific signage or pavement markings for buses. A bike lane usually has a bicycle symbol. A carpool lane would typically be marked with a diamond symbol. The diagonal lines within the lane indicate that it's not meant for through traffic. Given the police car parked there and the absence of other markings, it's most likely a right-turn-only lane that vehicles can briefly enter to make a right turn.
+
+**Answer:** D"
+22,At what time can ego park at the side of the road? A. 9am. B. 2pm. C. 8pm. D. None of the above.,"Here's a breakdown of the scenario and the answer:
+
+**Scenario Description:**
+
+The video shows a crossing guard helping a pedestrian cross the street in front of West Portal School. A ""No Parking Anytime"" sign is visible near the intersection.  Ego wants to know when they can park on the side of the road near this sign.
+
+**Reasoning:**
+
+The sign clearly indicates ""No Parking Anytime"".  This restriction overrides any other potential time limits and means parking is prohibited 24/7.
+
+**Answer:**
+
+D. None of the above.
+"
+23,What's the state of ego-relevant traffic light? A. Green left arrow. B. Green right arrow. C. Yellow left arrow. D. Yellow right arrow.,"The video shows a car driving at night along a road partially blocked off by construction. Several orange traffic cones delineate a narrowed driving area, and a construction sign indicating ""Road Closed"" is visible. 
+
+Although the traffic light is difficult to see clearly due to the video quality and distance, at [00:00:02], a yellow left turn arrow is illuminated for a brief period.
+
+Answer: C"
+24,Which traffic light is the most immediately relevant for ego? A. Red light. B. Red light for right turn. C. Yellow light. D. Green light.,"The video shows a night scene on a rain-soaked highway. Ego is driving forward on the leftmost lane. There are street lights overhead. The road surface reflects the lights, giving it a wet, shiny appearance. Several road signs indicate upcoming exits, like Boundary Rd and 18th Ave East (US 2).
+
+Ego is traveling forward. This means that traffic signals that permit going straight ahead are relevant. Among the visible traffic signals, the green light is the one that governs movement in the ego vehicle's direction. The red light would necessitate stopping, while the yellow light suggests caution but could be proceeded through if safe. The red right-turn arrow refers to vehicles turning right, not ego’s current maneuver.
+
+D"
+25,"How many vehicles appeared in the video, just consider those on the same side of ego? A. 3. B. 4. C. 5. D. 6.","The video shows a vehicle driving along a road at night. There is a designated bike lane separated from the main roadway by flexible white posts with blue reflectors on top. As the ego vehicle moves along the road, we see one vehicle driving in front of the ego vehicle (at around 0:00), and we see two more vehicles parked in a parking lot at the left-hand side of the road (at around 0:02).
+
+As the question asks for vehicles on the same side of ego, there are one driving vehicle and two parked vehicles. 
+
+Answer: A"
+26,Which directions can ego proceed in? A. straight. B. straight or right. C. left only. D. None of the above.,"Here's the breakdown:
+
+The ego vehicle is driving on a highway. To the right of the highway, there's a park with several people enjoying the day. There's a semi-truck ahead of ego, and a small SUV to the right of ego and ahead of them. It appears that the ego vehicle is proceeding straight ahead. There's no indication of an off-ramp or lane markings suggesting any other possible direction.
+
+Answer: A"
+27,What's the upcoming exit number? A. 1. B. 500. C. 27. D. 80.,"This video shows a nighttime street scene in a city. It appears to be raining, and the streetlights and traffic signals are reflecting off the wet pavement. The camera is positioned at an intersection, and a CVS Pharmacy is visible on the corner.
+
+The question asks for the upcoming exit number, but there is no indication of any highway or exits in this video. It's a city street scene, not a highway.
+
+A. 1. B. 500. C. 27. D. 80. 
+
+None of the choices are supported by the video. No exit number is visible."
+28,Is there a vehicle to ego's left? A. Yes. B. No. C. Insufficient evidence. D. None of the above.,"The video shows a view from the driver's perspective (ego) driving down a multi-lane highway. There are vehicles ahead of ego and vehicles to ego's right. 
+
+To determine if there is a vehicle to ego's left, we look at the video carefully. We can see that the lane to the left of ego is designated as an express lane, and a white pickup truck is partially visible in that lane.
+
+Answer: A"
+29,Why did ego come to a stop? A. Crossing vehicle. B. No space without blocking intersection. C. Stop sign. D. Cross pedestrians.,"A car is approaching an intersection. The traffic signal for the car is red. Several cars are crossing the intersection, going perpendicular to the driver. 
+
+The question is why the driver came to a complete stop at the intersection. The ego car cannot go because there are cars crossing the intersection. There is no stop sign visible. There are no pedestrians present. The car can't move because there is no space in the intersection. If the car continues through the intersection, it will block the path of the crossing traffic. The driver has stopped at a red light to allow the crossing vehicles to pass safely.
+
+B"
+30,What is the most likely course of action for the vehicle in front of ego? A. Turn left. B. Go straight. C. Turn right. D. Reverse.,"The ego vehicle is approaching an intersection. There is a red trailer being pulled by a truck directly in front of the ego vehicle.  To the right of the ego vehicle, a white van is stopped at the intersection with its right turn signal on.
+
+The trailer is following a semi-truck through the intersection. It is unlikely that the trailer is going to turn left or right because the semi-truck in front of it is going straight. Furthermore, the trailer would be very difficult to maneuver if turning left or right. The trailer is not reversing. Therefore, it's very likely the trailer will continue straight through the intersection.
+
+C"
+31,"Is it appropriate for ego to turn right now and why? A. Yes, for a right on red. B. Yes, the traffic lights are green. C. No, there is a no right on red sign. D. No, there is cross traffic.","The ego vehicle is approaching a traffic light at night. The ego vehicle’s headlights illuminate the road ahead, revealing lane markings and directional signs for US1 North and US1 South. There is a dark-colored vehicle ahead driving in the same direction as ego, and cross traffic is visible across the intersection. 
+
+
+Reasoning: Option A (right on red) and option B (green light) do not apply because ego is approaching the intersection from the left turn lane, which is designated by the arrow on the road surface in front of ego. Option D is incorrect because there is no immediate cross traffic from the lane ego is facing. There is a ""no right turn on red"" sign posted just before the intersection, making C the correct answer. 
+
+
+Answer: C"
+32,What is the weight limit on this road? A. 3 lbs. B. 3 tons. C. 3 kgs. D. 3 oz.,"The ego vehicle is driving down a residential street. There are cars parked on both sides of the street. There are crosswalks on the street as well. There are also some traffic cones set up next to a yellow utility truck on the left side of the road. There is a sign that says ""3 Tons"" posted near the traffic cones.
+
+The question asks about the weight limit of the road, which is indicated on the sign. The sign states ""3 Tons.""
+
+Answer: B"
+33,"What's wrong with ego's behavior? A. Ego is bumping into the ballard. B. Ego is speeding. C. Ego is driving on the wrong direction of the road. D. Things look normal, nothing is wrong.","The ego vehicle is driving up a hill on a two-lane road. Trees, bushes, and some buildings are visible along the sides of the road. The sky is partially cloudy. The ego vehicle appears to be staying within its lane and maintaining a safe speed.
+
+Ego is exhibiting normal driving behavior, there is nothing wrong with the behavior depicted in the video.
+
+D"
+34,How many drivable lanes in the scene that are parallel (include opposing lanes as well) to ego? A. 5. B. 4. C. 3. D. 6.,"The video is a dashcam recording of a drive down a city street. The ego vehicle is driving straight ahead, following another car. There are other cars in the scene, as well as shops, trees, and power lines. 
+
+The question asks how many drivable lanes are parallel to the ego vehicle's direction of travel, including opposing lanes. 
+
+There are two lanes in the ego vehicle's direction of travel. We can see one opposing traffic lane, and another lane next to it for parked cars. Although cars can use that lane for parking, it isn't drivable in the same direction as the ego vehicle. So, there are three parallel drivable lanes.
+
+C"
+35,What's special about the lane to the right of ego? A. Bike lane. B. Reversible lane. C. Bus lane. D. HOV lane.,"The video shows a driver approaching an intersection at night. To the right of the ego vehicle is a red-painted lane marked with the words ""ONLY BUS."" 
+
+Reasoning: The lane is clearly marked for buses only, indicating it is a designated bus lane.  It is not marked as a bike lane, reversible lane, or HOV lane.
+
+Answer: C"
+36,Count the number of unique vehicles that enter the video frame but do not exit the video frame. A. 0. B. 1. C. 2. D. 3. E. 4.,"Here's a breakdown of the video and the answer to your question:
+
+**Video Description:** The video shows a dashboard camera view of a vehicle driving down a residential street. There are houses and trees on both sides of the street. A Budget moving truck is parked on the right side of the road.
+
+**Reasoning:**
+To answer the question, we need to identify vehicles that enter the frame but do not leave it by the end of the video.  Let's look:
+
+1. The Budget truck: It's already in the frame from the start. It doesn't enter.
+2. A black car can be seen briefly turning at an intersection ahead and to the right, but it quickly exits the frame.
+3. Another car (possibly silver or white) is very briefly visible behind the black car at the intersection and is also leaving the frame.
+
+Therefore, no vehicle enters the frame and stays within it.
+
+**Answer:** A"
+37,Why is ego's current lane not appropriate? A. It's for oncoming traffic. B. It's closed for roadwork. C. Heavier traffic than required. D. It's not for passenger cars.,"The ego vehicle is driving on a two-lane road. There is an oncoming lane with traffic flowing in the opposite direction. Roadwork is being conducted on the right side of the road where the ego vehicle is traveling. Orange construction barrels delineate the area of roadwork. There is more traffic in the lane where the ego vehicle is than in the adjacent lane. The ego vehicle's current lane has no markings or signs indicating it's closed or restricted from passenger cars. 
+
+The ego vehicle's lane is not appropriate because there's heavier traffic than required. The adjacent lane has less traffic and would be a better choice for the ego vehicle to proceed.
+
+C"
+38,Count the number of unique pedestrians seen by the ego. A. 0. B. 1. C. 2. D. 3. E. 4.,"The ego vehicle is driving down a street in San Francisco. Several vehicles are parked on the side of the road. As the ego vehicle approaches the intersection, a white truck is making a left turn. 
+
+At [00:00:02], a pedestrian wearing a red shirt crosses the street to the right side of the screen. At [00:00:03], another pedestrian walks behind a traffic signal pole on the left side of the screen.
+
+There are 2 unique pedestrians.
+
+C"
+39,Why does the car in front of ego stop? A. Red Light. B. Stop Sign. C. Yielding to cross-traffic. D. Does not come to a stop.,"The ego vehicle is driving along the Great Highway with the ocean on the left side of the road. There is a parking area to the left of the ego vehicle. The road has two lanes in each direction, and traffic is flowing moderately. Cars can be seen going in both directions. The question asks why the car directly in front of the ego vehicle stops. The car in front of the ego vehicle does not come to a complete stop. It appears to slow down slightly, possibly due to traffic conditions or to yield briefly, but it does not stop entirely. 
+
+D"
+40,What is the white car most likely to do at the stop sign? A. turn right. B. full stop. C. proceed straight. D. turn left.,"A Tesla is waiting at a stop sign in the middle of a multi-lane road with streetcar rails. The ground is wet and reflects the car's red taillights.  There's a Walgreens pharmacy visible across the street.
+
+It's difficult to be absolutely certain, but given the position of the vehicle facing directly into the intersection and the presence of a stop sign, the most likely action would be a full stop before proceeding either straight, turning left or right.
+
+B"
+41,Which ways may ego proceed from it's current lane? A. straight only. B. straight or left. C. left only. D. right only.,"In the video, a driver's view of a street is shown. It is dusk or nighttime. There are some cars parked on the street. Two vehicles approach from the opposite direction, then turn right into the cross street. The ego's current lane of travel is only designated to proceed straight. There is a No Left Turn sign at the intersection, so turning left is not allowed from this lane. There is not a lane or designated area to turn right, so that's not permitted. 
+
+Answer: A"
+42,Which traffic light is relevant to ego's current lane? A. The blinking left arrow. B. The green circle. C. The blinking right arrow. D. The red circle.,"Here's a breakdown of the scene and the question:
+
+**Scene Description:**
+The ego vehicle is approaching an intersection with traffic signals. There's some road work happening on the right side, indicated by orange cones and a worker. The traffic lights visible are a blinking left arrow, a green circle, a blinking right arrow, and a red circle. The ego vehicle is traveling straight.
+
+**Reasoning:**
+Since the ego vehicle is going straight, the green circle is the relevant traffic signal. The blinking left arrow indicates a protected left turn phase is ending, the blinking right arrow typically indicates a permissive right turn, and the red circle signifies that straight-through movement is currently stopped for other directions.
+
+**Answer:** B"
+43,What type of building is the road sign indicating is ahead? A. Airport. B. Embassy. C. Restaurant. D. Hotel.,"The video shows a dashcam view of a two-way street lined with trees. Vehicles are driving in both directions.
+
+There is a sign on the left side of the road indicating that there's a hotel ahead.
+
+D"
+44,Why is it appropriate for ego to remain stopped? A. Waiting for right of way. B. For a traffic light. C. For a stop sign. D. For a pedestrian.,"The video shows a street intersection with two traffic lights. Several vehicles are passing through the intersection. All traffic lights are red for ego’s direction, and ego’s vehicle remains stopped.
+
+The question is why it's appropriate for ego to remain stopped. The correct answer is B, since ego is waiting at a red light. The question eliminates options C and D because there are no stop signs or pedestrians present. While ego must eventually yield to oncoming traffic to make a left turn, ego must first wait for the traffic signal to turn green before proceeding. Therefore, option A is not the primary reason why ego should remain stopped.
+
+B"
+45,Which lane is blocked by construction? A. Left most lane. B. Center lane. C. Right most lane. D. None of the above.,"The ego vehicle is traveling on a multi-lane divided highway. It is following a large truck with a shipping container on its trailer. A construction zone can be seen on the right side of the highway with white construction trailers and a large partially completed building. An orange construction sign is visible on the right side, indicating a speed limit of 20 mph. Construction is present along the right side of the roadway, however, none of the lanes are blocked. 
+
+Answer: D"
+46,What is closest to the average speed of the truck in front of ego? A. 5 miles per hour. B. 17 miles per hour. C. 24 miles per hour. D. 35 miles per hour.,"Here's a breakdown of the video and the reasoning behind the answer:
+
+**Explanation of the video:**
+
+The video shows a street scene from the perspective of a moving vehicle (ego). The ego vehicle is driving uphill on a residential street.  Several cars are parked along the side of the road, and a truck is driving slowly in front of the ego vehicle.
+
+**Reasoning:**
+
+The truck in front of the ego vehicle is moving very slowly, almost at a crawling pace. The ego vehicle is moving slowly as well. Therefore, a slow speed of around 5 mph appears most appropriate for the truck.
+
+**Answer:**
+
+A"
+47,Why is ego slowing down? A. pedestrian on crosswalk. B. stop sign. C. red light. D. Open car door.,"The ego vehicle is approaching an intersection. The light turns green, but the ego vehicle slows down and comes to a stop.
+
+The ego vehicle is slowing down because a black vehicle has its door open.
+
+
+Answer: D"
+48,What can ego do next while the light is still red? A. Make a left turn. B. Make a right turn. C. Go in reverse. D. Stay stopped.,"The video shows a dashcam view of a car driving down a road at sunset. The sun is low on the horizon, creating some glare. The car is approaching a red light, and other cars are stopped ahead. The road has markings for a turn lane.
+
+Here's the reasoning to arrive at the correct answer:
+Since the light is red, the car must stop.  The car cannot go in reverse because it would be a safety hazard. Although there are markings for a turn lane, making a left turn on a red is usually not permitted unless there's a sign stating otherwise, which we do not see here. Sometimes a right turn is permitted on red after coming to a full stop if safe, but since the light is red, the driver is expected to stay stopped.
+
+
+Answer: D"
+49,"At the roundabout, which way leads to Monroe Drive? A. Straight. B. Left. C. Right.","The video shows a dashcam view of a driver traveling down a hill in San Francisco, California. The road ends at a roundabout, but the video ends before the ego vehicle reaches it, so we don't know what streets the roundabout connects to. Because the dashcam video doesn't include any information about the streets at the roundabout, we have no information to answer the question.
+
+Not enough information to determine."
+50,"When the light turns green, can ego traverse straight through the intersection and why? A. Yes, this is a legal maneuver. B. No, there is construction ahead. C. No, there is a sign that says yield to pedestrians. D. No, there is a sign that says all traffic must turn.","The video shows a driver approaching an intersection.  There are cars stopped in front of the ego vehicle. The light is red. Buildings and trees line the street. There are construction signs on the right.
+
+
+Reasoning:  The question asks whether the ego vehicle can proceed straight when the light turns green.  While there is construction on the right, this doesn't necessarily prohibit going straight. We need to look for any signage indicating a restriction on going straight. The video does not show a yield to pedestrian sign nor a sign that says all traffic must turn. The video shows a left turn only arrow with a red light. This means the light has not yet changed and ego needs to remain stopped until it turns green. Once it turns green, the video does not display any signage forbidding ego to traverse straight through the intersection. Therefore, it is a legal maneuver.
+
+Answer: A"
